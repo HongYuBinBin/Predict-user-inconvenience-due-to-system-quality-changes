@@ -2,7 +2,7 @@
 Time Series Data(LG, Dacon)
 
 
-# AI competition period: 2021/01.06 ~ 2021/02/03
+### AI competition period: 2021/01.06 ~ 2021/02/03
 
 비식별화 된 시스템 기록(로그 및 수치 데이터)을 분석하여 시스템 품질 변화로 사용자에게 불편을 야기하는 요인을 진단
 
